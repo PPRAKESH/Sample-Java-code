@@ -9,7 +9,7 @@ public class Data {
 		Basic b = new Basic();
 
 		System.out.println(b.add(10, 20));
-		System.out.println("doing some changes");
+		System.out.println("doing some changes2");
 
 	}
 
